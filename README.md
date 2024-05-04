@@ -1,4 +1,4 @@
-# SpyderZ: an efficient support vector machine library for photometric redshift estimation and redshift probability information
+# SpyderZ: an efficient support vector machine library for photometric redshift estimation and redshift probability information [![DOI](https://zenodo.org/badge/723630627.svg)](https://zenodo.org/doi/10.5281/zenodo.11111981)
 
 ### Abstract (edited)
 
