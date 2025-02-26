@@ -146,7 +146,7 @@ class SpyderZ:
         # normalise votes for each galaxy so that highest voted bin class has value=1
         ePDFs = votes / np.array(votes.max(axis=1), ndmin=2).T
         
-        return votes
+        return ePDFs
 
     def get_metrics(self, z_test, z_pred, print_metrics=True):
         """
